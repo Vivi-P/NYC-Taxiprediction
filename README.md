@@ -24,3 +24,10 @@ Store and Forward Flag: This flag indicates whether the trip log was held in veh
 ## Methodology:
 
 The present study will use regression and logistic model analysis in order to select the best model to predict taxi trip duration and also Random Forest and K-Nearest Neighbors Regression. 
+
+## Team members:
+
+Xinshi Li
+Vanessa Hidalgo
+Viviana Pavon
+
